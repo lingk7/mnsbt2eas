@@ -25,7 +25,7 @@ pip install glob2  # File path matching
 Complete Dependency Installation Command
 
 bash
-# Install all dependencies at once
+Install all dependencies at once
 pip install opencv-python Pillow numpy glob2
 Functional Description
 This is a tool designed for extracting Sprites from Unity resources and compositing layered character images.
