@@ -57,3 +57,5 @@ Ensure sufficient disk space is available.
 The program will automatically skip existing files.
 
 Supports batch compositing of multiple expression combinations.
+
+Reference document https://www.bilibili.com/opus/1094969588234321929?spm_id_from=333.1387.0.0
